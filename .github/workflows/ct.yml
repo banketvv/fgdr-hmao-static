@@ -14,7 +14,7 @@ env:
   FOLDER_ID: <идентификатор_каталога>
   SA_ID: <идентификатор_сервисного_аккаунта>
   FUNCTION_NAME: from-github-preprod
-  FUNCTION_RUNTIME: nodejs22
+  FUNCTION_RUNTIME: nodejs24
   FUNCTION_ENTRYPOINT: index.handler
   FUNCTION_MEMORY: "128mb"
   FUNCTION_SOURCEROOT: .
